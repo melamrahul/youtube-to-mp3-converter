@@ -8,9 +8,9 @@
 
 **The simplest online YouTube downloader — convert any YouTube video to MP3 or MP4 in seconds, right in your browser.**
 
-🌐 **[Try it Free → www.ruvs.in](https://www.ruvs.in/)**
+🌐 **[Try it Free → www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)**
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ruvs.in&label=ruvs.in&style=flat-square&color=brightgreen&logo=google-chrome)](https://www.ruvs.in/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ruvs.in&label=ruvs.in&style=flat-square&color=brightgreen&logo=google-chrome)]([https://www.ruvs.in/](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv))
 [![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/ruvsin)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -25,10 +25,10 @@
 
 ## 🚀 What Is This?
 
-This repository contains the **open-source backend** powering **[www.ruvs.in](https://www.ruvs.in/)** — a free, fast, and privacy-friendly **YouTube to MP3 and MP4 converter** built with Python, Flask, `yt-dlp`, and `ffmpeg`.
+This repository contains the **open-source backend** powering **[www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)** — a free, fast, and privacy-friendly **YouTube to MP3 and MP4 converter** built with Python, Flask, `yt-dlp`, and `ffmpeg`.
 
 > 🎯 **Just want to convert a YouTube video?**
-> Head straight to **[www.ruvs.in](https://www.ruvs.in/)** — works instantly in your browser, no installation, no account, no watermark.
+> Head straight to **[www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)** — works instantly in your browser, no installation, no account, no watermark.
 
 ---
 
@@ -50,7 +50,7 @@ This repository contains the **open-source backend** powering **[www.ruvs.in](ht
 
 ## ☕ Support This Project
 
-If this Repo or **[www.ruvs.in](https://www.ruvs.in/)** helped you or saved your time, buy me a coffee — it keeps the servers running and motivates me to keep building free tools. 🙏
+If this Repo or **[www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)** helped you or saved your time, buy me a coffee — it keeps the servers running and motivates me to keep building free tools. 🙏
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Every coffee = faster servers, more features, and a very happy developer. ☕
 
 ## 🌐 Live Demo
 
-> 🔗 **[https://www.ruvs.in/](https://www.ruvs.in/)**
+> 🔗 **[https://www.ruvs.in/](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)**
 
 1. Paste any YouTube URL
 2. Choose **MP3** or **MP4** and pick your quality
@@ -287,11 +287,11 @@ This project is intended for **educational and personal use only**. Downloading 
 
 ## 👨‍💻 Author
 
-**M. Rahul** — building free tools at **[ruvs.in](https://www.ruvs.in/)**
+**M. Rahul** — building free tools at **[ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv)**
 
 | | |
 |---|---|
-| 🌐 Website | [www.ruvs.in](https://www.ruvs.in/) |
+| 🌐 Website | [www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv) |
 | 🐙 GitHub | [@ruvs-in](https://github.com/ruvs-in) |
 | ☕ Ko-fi | [ko-fi.com/ruvsin](https://ko-fi.com/ruvsin) |
 
@@ -334,6 +334,6 @@ See [LICENSE](LICENSE) for the full text.
 
 **⭐ If this repo helped you, please star it — it helps others find it too!**
 
-Made with ❤️ by [M. Rahul](https://www.ruvs.in/) &nbsp;·&nbsp; [www.ruvs.in](https://www.ruvs.in/) &nbsp;·&nbsp; [Ko-fi](https://ko-fi.com/ruvsin)
+Made with ❤️ by [M. Rahul](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv) &nbsp;·&nbsp; [www.ruvs.in](https://www.ruvs.in/?utm_source=gh-rdme-yt-mp3-conv) &nbsp;·&nbsp; [Ko-fi](https://ko-fi.com/ruvsin)
 
 </div>
